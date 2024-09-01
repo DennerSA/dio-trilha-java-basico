@@ -1,4 +1,4 @@
-package src.dennner.tiipos
+package denner.tipos;
 
 public class tiposVariaveis {
 
