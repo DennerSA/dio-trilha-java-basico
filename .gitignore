@@ -28,6 +28,7 @@ out/
 .idea/
 !**/src/main/**/out/
 !**/src/test/**/out/
+edu.denner.src/edu.denner.src.iml
 
 ### Eclipse ###
 .apt_generated

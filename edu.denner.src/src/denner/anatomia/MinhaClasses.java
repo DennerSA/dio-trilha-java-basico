@@ -1,4 +1,4 @@
-package edu.denner.anatomia;
+package denner.anatomia;
 
 public class MinhaClasses {
 
